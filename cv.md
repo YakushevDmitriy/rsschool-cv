@@ -7,7 +7,7 @@
 * +375297528334     
 * dyakushev95@gmail.com 
 * [linkedin.com/in/yakushevd](linkedin.com/in/yakushevd)
-* [github.com/YakushevDmitriy]
+* [github.com/YakushevDmitriy]()
 * discord.com Dmitriy Yakushev#7591
 -----
 #### SUMMARY
@@ -44,6 +44,7 @@ function multiply(a, b){
 #### EDUCATION:
 ##### Educational Center for Programming and High Tech (IT-Academy)
 ##### *Course*: **Web application development with JavaScript**
+
 
 ##### Educational Center for Programming and High Tech (IT-Academy)
 ##### *Course*: **Website development with HTML, CSS & JavaScript.**
